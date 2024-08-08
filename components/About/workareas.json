@@ -1,0 +1,27 @@
+[
+    {
+        "fa": "fa-brands fa-discord",
+        "title": "Discord Bot Developer",
+        "description": "About 1 years"
+    },
+    {
+        "fa": "fa-solid fa-browser",
+        "title": "Website Developer",
+        "description": "About 7 month"
+    },
+    {
+        "fa": "fa-solid fa-mobile-button",
+        "title": "App Developer",
+        "description": "About 8 days"
+    },
+    {
+        "fa": "fa-brands fa-react",
+        "title": "ReactJS Development",
+        "description": "About 5 month"
+    },
+    {
+        "fa": "fa-solid fa-layer-group",
+        "title": "NextJS Development",
+        "description": "About 20 days"
+    }
+]

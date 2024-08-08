@@ -1,0 +1,74 @@
+[
+    {
+        "title": "HTML",
+        "img": "html"
+    },
+    {
+        "title": "CSS",
+        "img": "css"
+    },
+    {
+        "title": "JavaScript",
+        "img": "js"
+    },
+    {
+        "title": "TypeScript",
+        "img": "ts"
+    },
+    {
+        "title": "Python",
+        "img": "python"
+    },
+    {
+        "title": "Github",
+        "img": "github"
+    },
+    {
+        "title": "Bootstrap",
+        "img": "bootstrap"
+    },
+    {
+        "title": "NextJS",
+        "img": "next"
+    },
+    {
+        "title": "ReactJS",
+        "img": "react"
+    },
+    {
+        "title": "Svelte",
+        "img": "svelte"
+    },
+    {
+        "title": "TailwindCSS",
+        "img": "tailwind"
+    },
+    {
+        "title": "MongoDB",
+        "img": "mongo"
+    },
+    {
+        "title": "MySQL",
+        "img": "mysql"
+    },
+    {
+        "title": "Discord",
+        "img": "discord"
+    },
+    {
+        "title": "ExpressJS",
+        "img": "express"
+    },
+    {
+        "title": "VSCode",
+        "img": "vscode"
+    },
+    {
+        "title": "Figma",
+        "img": "figma"
+    },
+    {
+        "title": "Redux",
+        "img": "redux"
+    }
+]
