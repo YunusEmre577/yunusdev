@@ -2,7 +2,7 @@
 import { NextResponse } from "next/server";
 import { Octokit } from "@octokit/rest";
 const octokit = new Octokit({
-    auth: "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"
+    auth: "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"
 });
 
 export async function GET(req) {
