@@ -10,12 +10,12 @@ export default function trymiddle() {
             try {
                 const res = await fetch("/api/repos")
             const data = await res.json()
-            setRepos(data)
+            setRepos(Array.isArray(data) ? data : [])
             } catch {
                 return;
             }
         }
-        fetchRepos()
+        fetchRepos([])
     }, [])
   return (
     <section className="flex flex-col gap-4 mb-12">
@@ -36,7 +36,7 @@ export default function trymiddle() {
                     <p className="text-[13px]">{new Date(item.created_at).toLocaleDateString("tr-TR")}</p>
                 <p>{item.description || "Description is not found."}</p>
                 </Link>
-            ))}
+            )) || <p>Repositories is not found.</p>}
         </div>
     </section>
   )
